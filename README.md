@@ -58,9 +58,9 @@ while True:
 client.close()
 ```
 ## OUPUT:
-echo_server.py
+# echo_server.py
 <img width="473" height="307" alt="Screenshot 2026-05-19 083611" src="https://github.com/user-attachments/assets/4f252b17-00e8-4b34-84ff-057708be2796" />
-echo_client.py
+# echo_client.py
 <img width="465" height="311" alt="Screenshot 2026-05-19 083623" src="https://github.com/user-attachments/assets/e2c72416-01f7-4b6a-b949-340828606fd7" />
 
 ## RESULT
